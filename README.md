@@ -1,3 +1,5 @@
+![Image_Alt](https://github.com/Mani212005/PDF-reader/blob/0dc961f534923de6d37f158b49d8785768da9fc4/Screenshot%202025-09-10%20at%209.53.52%E2%80%AFPM.jpg)
+
 # PDF QA & Summarization Assistant
 
 This is a web-based application that allows you to chat with your PDF documents and get summaries of them. You can ask questions about the content of a PDF file, and the application will use a large language model to provide answers.
